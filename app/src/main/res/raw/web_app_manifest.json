@@ -1,0 +1,1 @@
+{"short_name":"Rajpath","name":"Rajpath","icons":[{"src":"./ico192.png","type":"image/png","sizes":"192x192","purpose":"any"},{"src":"./ico512.png","type":"image/png","sizes":"512x512","purpose":"any"}],"start_url":"./?start_url=homescreenicon","display":"standalone","theme_color":"#2F2E41","background_color":"#ffffff"}

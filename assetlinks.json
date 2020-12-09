@@ -1,0 +1,5 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "in.rmtsbus.twa",
+                   "sha256_cert_fingerprints": ["2D:4D:A5:F8:C9:30:A1:CF:37:53:78:7F:E0:26:B8:BE:45:3B:C5:D8:00:23:6E:C9:96:90:9E:1F:DF:2B:8A:96"] }
+    }]

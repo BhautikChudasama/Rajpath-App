@@ -1,0 +1,35 @@
+{
+  "packageId": "in.rmtsbus.twa",
+  "host": "rmtsbus.in",
+  "name": "RMTS",
+  "launcherName": "RMTS",
+  "display": "fullscreen",
+  "themeColor": "#2F2E41",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#FFFFFF",
+  "enableNotifications": false,
+  "startUrl": "/?start_url=twa",
+  "iconUrl": "https://rmtsbus.in/ico512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "./android.keystore",
+    "alias": "android"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://rmtsbus.in/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "orientation": "portrait-primary",
+  "appVersion": "1"
+}

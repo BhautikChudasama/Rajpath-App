@@ -1,0 +1,273 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:22:1-161:12
+INJECTED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:22:1-161:12
+INJECTED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:22:1-161:12
+INJECTED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:22:1-161:12
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:2.1.0] /root/.gradle/caches/transforms-2/files-2.1/98a8daf4f409d28473f7d4f908ca4498/androidbrowserhelper-2.1.0/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.browser:browser:1.3.0] /root/.gradle/caches/transforms-2/files-2.1/c1f8f1c7d9322fb01554c7bd92d0eaca/browser-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /root/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /root/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/3e5d045fdd42de39d437ce94a2ff87c7/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/5dfc3e4de70e0708bf5b8273f949e79c/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:22:1-161:12
+INJECTED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:22:1-161:12
+INJECTED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:22:1-161:12
+	package
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:23:5-29
+		INJECTED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:22:1-161:12
+		INJECTED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:22:1-161:12
+		INJECTED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:22:11-69
+application
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:29:5-160:19
+MERGED from [androidx.core:core:1.1.0] /root/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /root/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /root/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /root/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /root/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:37:9-35
+	android:label
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:33:9-40
+	android:manageSpaceActivity
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:35:9-105
+	android:icon
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:32:9-43
+	android:allowBackup
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:31:9-35
+	android:theme
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:38:9-68
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:30:9-35
+meta-data#asset_statements
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:40:9-42:58
+	android:resource
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:42:13-55
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:41:13-44
+meta-data#web_manifest_url
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:45:13-47:58
+	android:value
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:47:17-55
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:46:17-48
+meta-data#twa_generator
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:50:9-52:52
+	android:value
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:52:13-49
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:51:13-41
+activity#com.google.androidbrowserhelper.trusted.ManageDataLauncherActivity
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:55:13-59:24
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:55:23-104
+meta-data#android.support.customtabs.trusted.MANAGE_SPACE_URL
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:56:13-58:53
+	android:value
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:58:17-50
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:57:17-83
+activity#in.rmtsbus.twa.LauncherActivity
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:62:9-129:20
+	android:screenOrientation
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:63:13-49
+	android:label
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:64:13-49
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:62:19-50
+meta-data#android.support.customtabs.trusted.DEFAULT_URL
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:65:13-66:53
+	android:value
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:66:17-50
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:65:24-85
+meta-data#android.support.customtabs.trusted.STATUS_BAR_COLOR
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:68:13-70:58
+	android:resource
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:70:17-55
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:69:17-83
+meta-data#android.support.customtabs.trusted.NAVIGATION_BAR_COLOR
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:72:13-74:61
+	android:resource
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:74:17-58
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:73:17-87
+meta-data#android.support.customtabs.trusted.NAVIGATION_BAR_COLOR_DARK
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:76:13-78:65
+	android:resource
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:78:17-62
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:77:17-92
+meta-data#androix.browser.trusted.NAVIGATION_BAR_DIVIDER_COLOR
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:80:13-82:68
+	android:resource
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:82:17-65
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:81:17-84
+meta-data#androix.browser.trusted.NAVIGATION_BAR_DIVIDER_COLOR_DARK
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:84:13-86:72
+	android:resource
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:86:17-69
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:85:17-89
+meta-data#android.support.customtabs.trusted.SPLASH_IMAGE_DRAWABLE
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:88:13-89:54
+	android:resource
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:89:17-52
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:88:24-95
+meta-data#android.support.customtabs.trusted.SPLASH_SCREEN_BACKGROUND_COLOR
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:91:13-92:60
+	android:resource
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:92:17-58
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:91:24-104
+meta-data#android.support.customtabs.trusted.SPLASH_SCREEN_FADE_OUT_DURATION
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:94:13-95:71
+	android:value
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:95:17-69
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:94:24-105
+meta-data#android.support.customtabs.trusted.FILE_PROVIDER_AUTHORITY
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:97:13-98:60
+	android:value
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:98:17-58
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:97:24-97
+meta-data#android.app.shortcuts
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:100:13-97
+	android:resource
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:100:61-94
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:100:24-60
+meta-data#android.support.customtabs.trusted.FALLBACK_STRATEGY
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:102:13-103:56
+	android:value
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:103:17-53
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:102:24-91
+meta-data#android.support.customtabs.trusted.DISPLAY_MODE
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:108:13-109:45
+	android:value
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:109:17-42
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:108:24-86
+meta-data#android.support.customtabs.trusted.SCREEN_ORIENTATION
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:112:13-113:54
+	android:value
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:113:17-52
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:112:24-92
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:117:13-120:29
+action#android.intent.action.MAIN
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:118:17-69
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:118:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:119:17-77
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:119:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/hostName+data:scheme:https
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:122:13-128:29
+	android:autoVerify
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:122:28-53
+action#android.intent.action.VIEW
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:123:17-68
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:123:25-66
+category#android.intent.category.DEFAULT
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:124:17-76
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:124:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:125:17-77
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:125:27-75
+data
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:126:17-127:54
+	android:host
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:127:21-52
+	android:scheme
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:126:23-45
+activity#com.google.androidbrowserhelper.trusted.FocusActivity
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:131:9-90
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:131:19-87
+activity#com.google.androidbrowserhelper.trusted.WebViewFallbackActivity
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:133:9-134:62
+	android:configChanges
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:134:13-59
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:133:19-97
+provider#androidx.core.content.FileProvider
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:136:9-144:20
+	android:grantUriPermissions
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:139:13-47
+	android:authorities
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:138:13-60
+	android:exported
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:140:13-37
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:137:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:141:13-143:53
+	android:resource
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:143:17-50
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:142:17-67
+service#in.rmtsbus.twa.DelegationService
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:146:9-157:19
+	android:enabled
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:148:13-55
+	android:exported
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:149:13-56
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:147:13-46
+intent-filter#action:name:android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE+category:name:android.intent.category.DEFAULT
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:153:13-156:29
+action#android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE
+ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:154:17-105
+	android:name
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml:154:25-103
+uses-sdk
+INJECTED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml
+INJECTED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:2.1.0] /root/.gradle/caches/transforms-2/files-2.1/98a8daf4f409d28473f7d4f908ca4498/androidbrowserhelper-2.1.0/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:2.1.0] /root/.gradle/caches/transforms-2/files-2.1/98a8daf4f409d28473f7d4f908ca4498/androidbrowserhelper-2.1.0/AndroidManifest.xml:22:5-24:41
+MERGED from [androidx.browser:browser:1.3.0] /root/.gradle/caches/transforms-2/files-2.1/c1f8f1c7d9322fb01554c7bd92d0eaca/browser-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] /root/.gradle/caches/transforms-2/files-2.1/c1f8f1c7d9322fb01554c7bd92d0eaca/browser-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /root/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /root/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /root/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /root/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/3e5d045fdd42de39d437ce94a2ff87c7/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/3e5d045fdd42de39d437ce94a2ff87c7/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/5dfc3e4de70e0708bf5b8273f949e79c/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/5dfc3e4de70e0708bf5b8273f949e79c/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml
+INJECTED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml
+		ADDED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Bhautik/rajpath-app/app/src/main/AndroidManifest.xml
+queries
+ADDED from [com.google.androidbrowserhelper:androidbrowserhelper:2.1.0] /root/.gradle/caches/transforms-2/files-2.1/98a8daf4f409d28473f7d4f908ca4498/androidbrowserhelper-2.1.0/AndroidManifest.xml:26:5-34:15
+intent
+ADDED from [com.google.androidbrowserhelper:androidbrowserhelper:2.1.0] /root/.gradle/caches/transforms-2/files-2.1/98a8daf4f409d28473f7d4f908ca4498/androidbrowserhelper-2.1.0/AndroidManifest.xml:27:9-33:18
